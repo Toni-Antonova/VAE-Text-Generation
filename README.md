@@ -1,6 +1,5 @@
 # VAE-Text-Generation
 NLP & Text Generation Using A Varational Autoencoder
 
-An implementation of a Variational Autoencoder for Natural Language Processing and Text Generation.
-
+The code above is a Keras implementation of the ideas in this paper: [Generating Sentences from a Continous Space](https://arxiv.org/pdf/1511.06349.pdf).
 
